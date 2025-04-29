@@ -19,10 +19,10 @@ export default function Home() {
           </Link>
         </div>
         <div className="hidden md:flex items-center gap-8">
-          <Link href="/signin" className="link-hover">
+          <Link href="https://agentesintegrados.com.br/login" className="link-hover">
             Entrar
           </Link>
-          <Link href="/get-started" className="btn-primary">
+          <Link href="https://agentesintegrados.com.br/signup" className="btn-primary">
             Começar
           </Link>
         </div>
@@ -65,7 +65,7 @@ export default function Home() {
             </div>
             <div className="mt-8 flex flex-col md:flex-row items-center justify-center gap-4">
               <Link
-                href="/get-started"
+                href="https://agentesintegrados.com.br/signup"
                 className="btn-outline"
               >
                 Comece Grátis
