@@ -45,7 +45,7 @@ export default function Home() {
             <p className="text-white/90 mt-8 text-xl max-w-2xl">
               Seu mvp em minutos, tire suas ideias do papel com IA      
               <br />
-              Precisa lançar rápido? Vamos te ajudar a chegar lá 👇
+              Precisa lançar rápido? Vamos te ajudar a chegar lá!
             </p>
           </div>
           
@@ -54,7 +54,7 @@ export default function Home() {
               <iframe 
                 width="100%" 
                 height="100%" 
-                src="https://www.youtube.com/embed/3DDLUzmY8Ds?si=ZAgmqkUbpqmNCrYy" 
+                src="https://www.youtube.com/embed/uvb6wf8GNTA" 
                 title="Vídeo demonstrativo do Databutton" 
                 frameBorder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
